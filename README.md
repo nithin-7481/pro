@@ -1,7 +1,7 @@
 # my project
 this is about the E-commerce website
 ## project link
-https://github.com/nithin-7481/pro.git
+https://roadmap.sh/projects/basic-html-website
 ## features
 -Responsive design
 -clean UI
